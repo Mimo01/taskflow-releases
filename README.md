@@ -3,15 +3,14 @@
 ## Download
 
 ### macOS
-- [Taskflow_1.7.0_universal.dmg](https://github.com/Mimo01/taskflow-releases/releases/latest/download/Taskflow_1.7.0_universal.dmg)
+- [Taskflow_1.7.1_universal.dmg](https://github.com/Mimo01/taskflow-releases/releases/latest/download/Taskflow_1.7.1_universal.dmg)
 - [Taskflow.app.tar.gz](https://github.com/Mimo01/taskflow-releases/releases/latest/download/Taskflow.app.tar.gz) (for updater)
 
 ### Linux
-- [Taskflow_1.7.0_amd64.deb](https://github.com/Mimo01/taskflow-releases/releases/latest/download/Taskflow_1.7.0_amd64.deb) (Debian/Ubuntu)
+Linux builds are not yet available from this release. Docker is required for cross-compilation from macOS.
 
 ### Windows
-- [Taskflow_1.7.0_x64-setup.exe](https://github.com/Mimo01/taskflow-releases/releases/latest/download/Taskflow_1.7.0_x64-setup.exe) (Installer)
-- [Taskflow_1.7.0_x64_en-US.msi](https://github.com/Mimo01/taskflow-releases/releases/latest/download/Taskflow_1.7.0_x64_en-US.msi) (MSI)
+Windows builds are not yet available. Windows cross-compilation from macOS is not supported.
 
 ---
-_Latest release: v1.7.0_
+_Latest release: v1.7.1_
