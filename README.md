@@ -3,14 +3,16 @@
 ## Download
 
 ### macOS
-- [Taskflow_1.7.1_universal.dmg](https://github.com/Mimo01/taskflow-releases/releases/latest/download/Taskflow_1.7.1_universal.dmg)
+- [Taskflow_1.7.2_universal.dmg](https://github.com/Mimo01/taskflow-releases/releases/latest/download/Taskflow_1.7.2_universal.dmg)
 - [Taskflow.app.tar.gz](https://github.com/Mimo01/taskflow-releases/releases/latest/download/Taskflow.app.tar.gz) (for updater)
 
 ### Linux
-Linux builds are not yet available from this release. Docker is required for cross-compilation from macOS.
+- [taskflow_1.7.2_amd64.AppImage.tar.gz](https://github.com/Mimo01/taskflow-releases/releases/latest/download/taskflow_1.7.2_amd64.AppImage.tar.gz) (AppImage)
+- [taskflow_1.7.2_amd64.deb](https://github.com/Mimo01/taskflow-releases/releases/latest/download/taskflow_1.7.2_amd64.deb) (Debian/Ubuntu)
 
 ### Windows
-Windows builds are not yet available. Windows cross-compilation from macOS is not supported.
+- [Taskflow_1.7.2_x64-setup.exe](https://github.com/Mimo01/taskflow-releases/releases/latest/download/Taskflow_1.7.2_x64-setup.exe) (NSIS installer)
+- [Taskflow_1.7.2_x64_en-US.msi](https://github.com/Mimo01/taskflow-releases/releases/latest/download/Taskflow_1.7.2_x64_en-US.msi) (MSI)
 
 ---
-_Latest release: v1.7.1_
+_Latest release: v1.7.2_
