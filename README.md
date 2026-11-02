@@ -3,16 +3,16 @@
 ## Download
 
 ### macOS
-- [Taskflow_1.14.15_universal.dmg](https://github.com/Mimo01/taskflow-releases/releases/latest/download/Taskflow_1.14.15_universal.dmg)
+- [Taskflow_1.14.16_universal.dmg](https://github.com/Mimo01/taskflow-releases/releases/latest/download/Taskflow_1.14.16_universal.dmg)
 - [Taskflow.app.tar.gz](https://github.com/Mimo01/taskflow-releases/releases/latest/download/Taskflow.app.tar.gz) (for updater)
 
 ### Linux
-- [taskflow_1.14.15_amd64.AppImage.tar.gz](https://github.com/Mimo01/taskflow-releases/releases/latest/download/taskflow_1.14.15_amd64.AppImage.tar.gz) (AppImage)
-- [taskflow_1.14.15_amd64.deb](https://github.com/Mimo01/taskflow-releases/releases/latest/download/taskflow_1.14.15_amd64.deb) (Debian/Ubuntu)
+- [taskflow_1.14.16_amd64.AppImage.tar.gz](https://github.com/Mimo01/taskflow-releases/releases/latest/download/taskflow_1.14.16_amd64.AppImage.tar.gz) (AppImage)
+- [taskflow_1.14.16_amd64.deb](https://github.com/Mimo01/taskflow-releases/releases/latest/download/taskflow_1.14.16_amd64.deb) (Debian/Ubuntu)
 
 ### Windows
-- [Taskflow_1.14.15_x64-setup.exe](https://github.com/Mimo01/taskflow-releases/releases/latest/download/Taskflow_1.14.15_x64-setup.exe) (NSIS installer)
-- [Taskflow_1.14.15_x64_en-US.msi](https://github.com/Mimo01/taskflow-releases/releases/latest/download/Taskflow_1.14.15_x64_en-US.msi) (MSI)
+- [Taskflow_1.14.16_x64-setup.exe](https://github.com/Mimo01/taskflow-releases/releases/latest/download/Taskflow_1.14.16_x64-setup.exe) (NSIS installer)
+- [Taskflow_1.14.16_x64_en-US.msi](https://github.com/Mimo01/taskflow-releases/releases/latest/download/Taskflow_1.14.16_x64_en-US.msi) (MSI)
 
 ---
-_Latest release: v1.14.15_
+_Latest release: v1.14.16_
