@@ -8,7 +8,8 @@
 
 [![Release](https://img.shields.io/badge/release-v1.14.19-2563eb?style=flat-square)](https://github.com/Mimo01/taskflow-releases/releases/tag/v1.14.19)
 ![Platforms](https://img.shields.io/badge/platforms-macOS%20%C2%B7%20Windows%20%C2%B7%20Linux-475569?style=flat-square)
-[![Downloads](https://img.shields.io/github/downloads/Mimo01/taskflow-releases/total?style=flat-square&color=475569&label=downloads)](https://github.com/Mimo01/taskflow-releases/releases)
+[![Released](https://img.shields.io/static/v1?label=released&message=2026-11-09&color=475569&style=flat-square)](https://github.com/Mimo01/taskflow-releases/releases/tag/v1.14.19)
+![Auto-updates](https://img.shields.io/badge/auto--updates-built%20in-16a34a?style=flat-square)
 
 [Download](#download) · [Installation](#installation) · [Release notes](https://github.com/Mimo01/taskflow-releases/releases/tag/v1.14.19) · [All releases](https://github.com/Mimo01/taskflow-releases/releases)
 
