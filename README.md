@@ -6,12 +6,12 @@
 
 **Jira, Tempo, GitLab and AIO Test Management in one fast desktop app.**
 
-[![Release](https://img.shields.io/badge/release-v1.14.21-2563eb?style=flat-square)](https://github.com/Mimo01/taskflow-releases/releases/tag/v1.14.21)
+[![Release](https://img.shields.io/badge/release-v1.14.22-2563eb?style=flat-square)](https://github.com/Mimo01/taskflow-releases/releases/tag/v1.14.22)
 ![Platforms](https://img.shields.io/badge/platforms-macOS%20%C2%B7%20Windows%20%C2%B7%20Linux-475569?style=flat-square)
-[![Released](https://img.shields.io/static/v1?label=released&message=2026-11-13&color=475569&style=flat-square)](https://github.com/Mimo01/taskflow-releases/releases/tag/v1.14.21)
+[![Released](https://img.shields.io/static/v1?label=released&message=2026-11-13&color=475569&style=flat-square)](https://github.com/Mimo01/taskflow-releases/releases/tag/v1.14.22)
 ![Auto-updates](https://img.shields.io/badge/auto--updates-built%20in-16a34a?style=flat-square)
 
-[Download](#download) · [Installation](#installation) · [Release notes](https://github.com/Mimo01/taskflow-releases/releases/tag/v1.14.21) · [All releases](https://github.com/Mimo01/taskflow-releases/releases)
+[Download](#download) · [Installation](#installation) · [Release notes](https://github.com/Mimo01/taskflow-releases/releases/tag/v1.14.22) · [All releases](https://github.com/Mimo01/taskflow-releases/releases)
 
 </div>
 
@@ -19,15 +19,15 @@
 
 ## Download
 
-Latest version: **v1.14.21** — released 2026-11-13
+Latest version: **v1.14.22** — released 2026-11-13
 
 | Platform | Package | Notes |
 | :-- | :-- | :-- |
-| **macOS** · Apple silicon & Intel | [Taskflow_1.14.21_universal.dmg](https://github.com/Mimo01/taskflow-releases/releases/download/v1.14.21/Taskflow_1.14.21_universal.dmg) | Universal disk image |
-| **Windows** · 64-bit | [Taskflow_1.14.21_x64-setup.exe](https://github.com/Mimo01/taskflow-releases/releases/download/v1.14.21/Taskflow_1.14.21_x64-setup.exe) | Installer — recommended |
-| | [Taskflow_1.14.21_x64_en-US.msi](https://github.com/Mimo01/taskflow-releases/releases/download/v1.14.21/Taskflow_1.14.21_x64_en-US.msi) | MSI for managed deployment |
-| **Linux** · x86_64 | [Taskflow_1.14.21_amd64.AppImage](https://github.com/Mimo01/taskflow-releases/releases/download/v1.14.21/Taskflow_1.14.21_amd64.AppImage) | Portable, any distribution |
-| | [Taskflow_1.14.21_amd64.deb](https://github.com/Mimo01/taskflow-releases/releases/download/v1.14.21/Taskflow_1.14.21_amd64.deb) | Debian / Ubuntu |
+| **macOS** · Apple silicon & Intel | [Taskflow_1.14.22_universal.dmg](https://github.com/Mimo01/taskflow-releases/releases/download/v1.14.22/Taskflow_1.14.22_universal.dmg) | Universal disk image |
+| **Windows** · 64-bit | [Taskflow_1.14.22_x64-setup.exe](https://github.com/Mimo01/taskflow-releases/releases/download/v1.14.22/Taskflow_1.14.22_x64-setup.exe) | Installer — recommended |
+| | [Taskflow_1.14.22_x64_en-US.msi](https://github.com/Mimo01/taskflow-releases/releases/download/v1.14.22/Taskflow_1.14.22_x64_en-US.msi) | MSI for managed deployment |
+| **Linux** · x86_64 | [Taskflow_1.14.22_amd64.AppImage](https://github.com/Mimo01/taskflow-releases/releases/download/v1.14.22/Taskflow_1.14.22_amd64.AppImage) | Portable, any distribution |
+| | [Taskflow_1.14.22_amd64.deb](https://github.com/Mimo01/taskflow-releases/releases/download/v1.14.22/Taskflow_1.14.22_amd64.deb) | Debian / Ubuntu |
 
 ## What's inside
 
@@ -59,8 +59,8 @@ Run the installer. If SmartScreen shows *Windows protected your PC*, choose **Mo
 **AppImage**
 
 ```sh
-chmod +x Taskflow_1.14.21_amd64.AppImage
-./Taskflow_1.14.21_amd64.AppImage
+chmod +x Taskflow_1.14.22_amd64.AppImage
+./Taskflow_1.14.22_amd64.AppImage
 ```
 
 On Ubuntu 22.04 and newer, install `libfuse2` if the AppImage does not start.
@@ -68,7 +68,7 @@ On Ubuntu 22.04 and newer, install `libfuse2` if the AppImage does not start.
 **Debian / Ubuntu**
 
 ```sh
-sudo apt install ./Taskflow_1.14.21_amd64.deb
+sudo apt install ./Taskflow_1.14.22_amd64.deb
 ```
 
 ## Getting started
